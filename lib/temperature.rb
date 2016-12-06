@@ -16,8 +16,8 @@ class Temperature
   end
 
   def to_kelvin
-    273.15
-    # temperature + KELVIN
+    # 273.15
+    temperature + KELVIN
   end
 
 end
