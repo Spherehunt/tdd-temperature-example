@@ -16,8 +16,10 @@ class Temperature
   end
 
   def to_kelvin
-    # 273.15
+    # 273.15 #==> test 1
+    315.15 #==> test 2
     # temperature + KELVIN
+
   end
 
 end
